@@ -1,3 +1,19 @@
+# 预处理
+
+**Interception环境构建**
+
+环境搭建：如果目标系统是64位的要先在配置管理器里加入x64配置
+
+下载Interception.zip，解压后在Interception\command line installer路径下打开命令行，运行：
+
+```
+./install-interception.exe /install
+```
+
+
+<br/>
+<br/>
+
 # KeyLinker
 
 This program is a virtual keyboard input tool developed based on system drivers. It simulates a standard 104-key keyboard and enables high-privilege global keyboard event simulation.
@@ -44,6 +60,8 @@ License: GNU GPLv3
 
 <br/>
 <br/>
+<br/>
+
 
 # KeyLinker 程序介绍
 
