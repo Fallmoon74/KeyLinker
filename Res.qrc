@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_q7l9eog4wo9/Quit.ico</file>
+        <file>icon_q7l9eog4wo9/Start.ico</file>
+        <file>icon_q7l9eog4wo9/TitleIcon.ico</file>
+        <file>icon_q7l9eog4wo9/Delay.ico</file>
+        <file>icon_q7l9eog4wo9/New.ico</file>
+        <file>icon_q7l9eog4wo9/Running.ico</file>
+        <file>icon_q7l9eog4wo9/Quitfloat.ico</file>
+        <file>icon_q7l9eog4wo9/Startfloat.ico</file>
+        <file>icon_q7l9eog4wo9/Delayfloat.ico</file>
+        <file>icon_q7l9eog4wo9/Newfloat.ico</file>
+        <file>icon_q7l9eog4wo9/RealTitleIcon.ico</file>
+    </qresource>
+</RCC>

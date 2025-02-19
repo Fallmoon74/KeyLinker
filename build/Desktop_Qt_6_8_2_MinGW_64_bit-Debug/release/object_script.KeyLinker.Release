@@ -1,0 +1,10 @@
+release/keyselectiondialog.o
+release/keysimulator.o
+release/main.o
+release/setdelaydialog.o
+release/widget.o
+release/qrc_Res.o
+release/moc_keyselectiondialog.o
+release/moc_keysimulator.o
+release/moc_setdelaydialog.o
+release/moc_widget.o

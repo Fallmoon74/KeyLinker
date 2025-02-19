@@ -1,0 +1,10 @@
+debug/keyselectiondialog.o
+debug/keysimulator.o
+debug/main.o
+debug/setdelaydialog.o
+debug/widget.o
+debug/qrc_Res.o
+debug/moc_keyselectiondialog.o
+debug/moc_keysimulator.o
+debug/moc_setdelaydialog.o
+debug/moc_widget.o
